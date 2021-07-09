@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olivier, I'm Product Owner of CICD Platform @TotalEnergies
-- 👀 I’m interested in DevSecOps, CICD, multiCloud
+- 👀 I’m interested in DevSecOps, CICD, Azure, AWS
 - 🌱 I’m currently learning on agile and many CICD tools 
 - 💞️ I’m looking to collaborate on DevSecOps
 - 📫 How to reach me : through my account aj0424754
